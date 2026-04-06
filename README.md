@@ -1,4 +1,3 @@
-rpi-smart-gateway-firewall
 Project Overview
 This project transforms a Raspberry Pi into a Smart Network Gateway capable of managing and securing local area network (LAN) traffic. By implementing Layer 3 Routing and Network Address Translation (NAT), the Pi acts as the central node for all connected clients.
 
